@@ -3,6 +3,7 @@ Hi! I'm Sihyun Jang
 
 # Education
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
+     2024. 08 ~ 금융감독원 FSS 대학생 금융교육 봉사단 12기
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
 # Awards
