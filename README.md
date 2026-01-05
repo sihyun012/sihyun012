@@ -17,23 +17,26 @@
 
 ## project
 
-## HomeQuest
+### HomeQuest
 > **IoT 데이터를 기반으로 가족의 생활 습관 변화를 유도하는  
 > 가족 참여형 AI 스마트홈 서비스**  
 > <br/> *한양대학교 IC-PBL × LG전자 산학협력 프로젝트*
 
-### Links
+#### Links
 - **GitHub**: https://github.com/CSE-HOMEQUEST  
 - **Demo**: https://www.youtube.com/watch?v=wRn-Hax9f6s
 - **Notion**: https://pinto-shovel-744.notion.site/HomeQuest-2b18ad1b8bdf80679a09d64a73448f45?source=copy_link 
 
-### Key Features
+#### Key Features
 - 가전 사용 로그·사용자 행동 데이터 기반 개인 맞춤형 챌린지 추천
 - 챌린지 수행 내역 및 포인트 변화를 랭킹, 마켓에 실시간 반영하는 보상 구조
 - 활동 로그가 OPEN API에 전달되어 가족별 AI 주간 리포트 제공
 - 단계적 데이터 로딩 및 상태 분리를 통한 화면 진입 성능 개선
 
 <br>
+
+## Hobby
+
 
 
 ## Skill
@@ -59,3 +62,4 @@
 - Cooperation:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
