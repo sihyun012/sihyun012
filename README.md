@@ -1,6 +1,3 @@
-
-![header](https://capsule-render.vercel.app/api type=waving&text=Sihyun%20Jang&color=5A6FE9&height=200&fontColor=FFFFFF)
-
 ## About Me 👋  
 안녕하세요! 장시현입니다.  
 익숙함에 안주하기보다, 도전하는 선택을 선호합니다.  
