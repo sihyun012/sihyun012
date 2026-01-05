@@ -22,12 +22,6 @@
 > 가족 참여형 AI 스마트홈 서비스**  
 > <br/> *한양대학교 IC-PBL × LG전자 산학협력 프로젝트*
 
-### Tech Stack
-![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-
 ### Links
 - **GitHub**: https://github.com/CSE-HOMEQUEST  
 - **Demo**: https://www.youtube.com/watch?v=wRn-Hax9f6s  
