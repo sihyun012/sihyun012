@@ -25,13 +25,13 @@
 ### Links
 - **GitHub**: https://github.com/CSE-HOMEQUEST  
 - **Demo**: https://www.youtube.com/watch?v=wRn-Hax9f6s
-- **Demo**: https://pinto-shovel-744.notion.site/HomeQuest-2b18ad1b8bdf80679a09d64a73448f45?source=copy_link 
+- **Notion**: https://pinto-shovel-744.notion.site/HomeQuest-2b18ad1b8bdf80679a09d64a73448f45?source=copy_link 
 
 ### Key Features
 - 가전 사용 로그·사용자 행동 데이터 기반 개인 맞춤형 챌린지 추천
 - 챌린지 수행 내역 및 포인트 변화를 랭킹, 마켓에 실시간 반영하는 보상 구조
 - 활동 로그가 OPEN API에 전달되어 가족별 AI 주간 리포트 제공
-- 단계적 데이터 로딩 및 상태 분리를 통한 화면 진입 성능 개선 → 초기 로딩 시간 평균 약 5초 → 2.8초 단축
+- 단계적 데이터 로딩 및 상태 분리를 통한 화면 진입 성능 개선
 
 <br>
 
