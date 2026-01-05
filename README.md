@@ -1,13 +1,12 @@
-<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=Sihyun%20Jang&color=5A6FE9&height=200&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api type=waving&text=Sihyun%20Jang&color=5A6FE9&height=200&fontColor=FFFFFF)
 
-</div>
+## About Me 👋  
+안녕하세요! 장시현입니다.  
+익숙함에 안주하기보다, 도전하는 선택을 선호합니다.  
+풀 스택 개발자를 목표로 성장 중입니다.
 
-# About Me 👋  
-안녕하세요 ! 장시현입니다. 풀 스택 개발자를 꿈꾸며 도전 중이고, 새로운 것을 배우는 것을 좋아합니다.
-
-# Final Vocabulary
+## Final Vocabulary
 
 # Education
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
