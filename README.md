@@ -1,8 +1,13 @@
-# About Me 👋  
-Hi! I'm Sihyun Jang
+<div align="center">
 
-# Bio
-풀 스택 개발자를 꿈꾸며 도전 중이고, 새로운 것을 배우는 것을 좋아합니다.
+![header](https://capsule-render.vercel.app/api?type=waving&text=Sihyun%20Jang&color=5A6FE9&height=200&fontColor=FFFFFF)
+
+</div>
+
+# About Me 👋  
+안녕하세요 ! 장시현입니다. 풀 스택 개발자를 꿈꾸며 도전 중이고, 새로운 것을 배우는 것을 좋아합니다.
+
+# Final Vocabulary
 
 # Education
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
@@ -10,7 +15,15 @@ Hi! I'm Sihyun Jang
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
 # Awards
-     2025. 12   Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project
+     2025. 12 Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project
+
+# project
+
+> ## HomeQuest 한양대학교 with LG전자 (ReactNative + Firebase)  
+- github: https://github.com/CSE-HOMEQUEST
+- YouTube: https://www.youtube.com/watch?v=wRn-Hax9f6s
+
+<br/>
 
 # Skill
 
@@ -35,11 +48,3 @@ Hi! I'm Sihyun Jang
 - Cooperation:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)
-
-# project
-
-> ## HomeQuest 한양대학교 with LG전자 (ReactNative + Firebase)  
-- github: https://github.com/CSE-HOMEQUEST
-- YouTube: https://www.youtube.com/watch?v=wRn-Hax9f6s
-
-<br/>
