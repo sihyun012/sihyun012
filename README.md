@@ -4,24 +4,45 @@
 풀 스택 개발자를 목표로 성장 중입니다.
 
 ## Final Vocabulary
+개발의 본질은 사용자의 불편을 해결하는 데 있다고 믿고,
+작은 변화라도 사용 경험을 매끄럽게 만드는 코드를 지향합니다.
 
-# Education
+## Education
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
      2024. 08 ~ 금융감독원 FSS 대학생 금융교육 봉사단 12기
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
-# Awards
+## Awards
      2025. 12 Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project
 
-# project
+## project
 
-> ## HomeQuest 한양대학교 with LG전자 (ReactNative + Firebase)  
-- github: https://github.com/CSE-HOMEQUEST
-- YouTube: https://www.youtube.com/watch?v=wRn-Hax9f6s
+## HomeQuest | 한양대학교 × LG전자
+> **IoT 데이터를 기반으로 가족의 생활 습관 변화를 유도하는  
+> 가족 참여형 AI 스마트홈 서비스**  
+> <br/> *한양대학교 IC-PBL × LG전자 산학협력 프로젝트*
 
-<br/>
+### Tech Stack
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-# Skill
+### Links
+- **GitHub**: https://github.com/CSE-HOMEQUEST  
+- **Demo**: https://www.youtube.com/watch?v=wRn-Hax9f6s  
+
+### Key Features
+- 가전 사용 로그·사용자 행동 데이터 기반 **AI 챌린지 예측 및 맞춤 추천**
+- 챌린지 수행 결과를 **랭킹·마켓에 실시간 반영**하는 보상 구조
+- 전체 활동 데이터를 요약 제공하는 **AI 리포트 기능**
+- **단계적 데이터 로딩 및 상태 분리**를 통한 화면 진입 성능 개선  
+  → 초기 로딩 시간 평균 **약 5초 → 2.8초 단축**
+
+<br>
+
+
+## Skill
 
 - Programming languages:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
