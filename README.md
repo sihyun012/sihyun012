@@ -1,18 +1,8 @@
 ## About Me 👋  
 안녕하세요! 장시현입니다.  
-익숙함에 안주하기보다, 도전하는 선택을 선호합니다.  
-풀 스택 개발자를 목표로 성장 중입니다.
-
-## Final Vocabulary : 실용성
-개발의 본질은 사용자의 불편을 해결하는 데 있다고 믿고,
-작은 변화라도 사용 경험을 매끄럽게 만드는 코드를 지향합니다.
 
 ## History
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
-     2023. 03 ~ 2024. 12 정보시스템학과 학생회 사무국장
-     2023. 03 ~ 2023. 07 프로그래밍 동아리 FORIF C언어 멘토
-     2024. 08 ~ 금융감독원 FSS 대학생 금융교육 봉사단 12기
-     2024. 12 ~ 정보시스템학과 감사위원회 선임위원
      2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
 ## Awards
@@ -63,25 +53,3 @@
 
 <br>
 
-## Hobby
-<p align="center">
-  <img src="강진_하늘.jpg" width="45%" />
-  <img src="달_사진.jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="당포성_별.jpg" width="45%" />
-  <img src="스위스_사진.jpg" width="45%" />
-</p>
-
-<p align="center">
-  <img src="파리_하늘.jpg" width="45%" />
-  <img src="피렌체_하늘.jpg" width="45%" />
-</p>
-
-
-## Interest
-- Cloud Computing 
-- Security 
-- Backend
-- AI
