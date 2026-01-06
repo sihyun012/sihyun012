@@ -37,13 +37,13 @@
 
 ## Hobby
 <p align="center">
-  <img src="./images/강진_하늘.jpg" width="45%" />
-  <img src="./images/달_사진.jpg" width="45%" />
+  <img src="강진_하늘.jpg" width="45%" />
+  <img src="달_사진.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./images/당포성_별.jpg" width="45%" />
-  <img src="./images/피렌체_하늘.jpg" width="45%" />
+  <img src="당포성_별.jpg" width="45%" />
+  <img src="피렌체_하늘.jpg" width="45%" />
 </p>
 
 ## Skill
