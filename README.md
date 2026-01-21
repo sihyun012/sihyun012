@@ -3,7 +3,6 @@
 
 ## History
      2023. 03 ~ 한양대학교 정보시스템학과 Hanyang University Information System 
-     2025. 12 ~ 신한투자증권 프로 디지털 아카데미 7기
 
 ## Awards
      2025. 12 Excellence Award(2nd Place), LG Electronics Hanyang University IC-PBL Project
